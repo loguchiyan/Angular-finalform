@@ -1,0 +1,39 @@
+.form-control {
+    width: 40%;
+}
+.w-100{
+    width: 10%!important;
+}
+h2{
+    font-style:Bold;
+
+    
+}
+.card-body{
+    color: orange;
+    
+}
+.form-group{
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-right: 2px;
+    
+    
+}
+.btn{
+    margin-left: 150px;
+    padding-right: 50px;
+}
+.card{
+    width: 700px;
+}
+.form-control{
+    padding-left: 10px;
+}
+.ng-untouched{
+    width: 100%;
+    padding-right: 10px;
+    
+
+}
